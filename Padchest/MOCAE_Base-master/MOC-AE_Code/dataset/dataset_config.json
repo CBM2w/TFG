@@ -1,0 +1,14 @@
+{
+    "dataset_path": "/workspace/Padchest/padchest_dataset_cropped/",
+    "image_shape": [224, 224, 1],
+    "pixel_depth": 256,
+    "labels" : [
+                "cardiomegaly",
+                "aortic elongation",
+                "scoliosis",
+                "normal"
+               ],
+    "projections": ["PA"],
+    "val_percentage" : 0.1,
+    "undersampling" : false
+}

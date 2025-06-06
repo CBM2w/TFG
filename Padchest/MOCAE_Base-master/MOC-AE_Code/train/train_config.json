@@ -1,0 +1,7 @@
+{
+    "batch_size" : 8,
+    "n_epochs" : 10,
+    "conf_mat_samples" : 500,
+    "learning_rate" : 0.001,
+    "model_save_pace" : 999
+}
