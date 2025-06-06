@@ -1,0 +1,13 @@
+{
+    "dataset_path": "/workspace/Alzheimer/alzheimer_dataset/",
+    "image_shape": [224, 224, 1],
+    "pixel_depth": 256,
+    "labels" : [
+                "MildDemented",
+                "ModerateDemented",
+                "NonDemented",
+                "VeryMildDemented"
+               ],
+    "val_percentage" : 0.1,
+    "undersampling" : false
+}
